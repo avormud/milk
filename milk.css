@@ -3,7 +3,7 @@
 }
 body {
   font-family: 'Open Sans', sans-serif;
-  background: linear-gradient(120deg, #FFFFFF, #FFC0CB, #FF69B4);
+  background: linear-gradient(120deg, #FFF0F5, #FFC0CB, #FF69B4);
 }      
 a {
   color: #FFFFFF;
@@ -15,7 +15,7 @@ a:visited {
       }
       
 a:hover {
-  color: #DC143C;
+  color: ##FFC0CB;
       }
       
 ul {
@@ -153,4 +153,5 @@ ul {
   max-width: 120%;
   margin-top: 50px;
 }
+
 
