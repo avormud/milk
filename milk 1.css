@@ -146,10 +146,11 @@ ul {
   padding: 12px 30px;
   margin-top: 30px;
   cursor: pointer;
-  color: #FFF;
+  color: ##FFFFFF;
   background-color: #DC143C;
 }    
 .landing-page .content .image img {
   max-width: 120%;
   margin-top: 50px;
 }
+
