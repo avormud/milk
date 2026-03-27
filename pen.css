@@ -9,7 +9,7 @@
 }
 
 body {
-  background-image: url("https://raw.githack.com/avormud/milk/refs/heads/main/artistic-background-wallpaper-with-color-halftone-effect.jpg");
+  background-image: url("https://raw.githack.com/avormud/milk/refs/heads/main/Rectangle%2011.png");
   background-size: cover;
   background-attachment: fixed;
   font-family: "Roboto", sans-serif;
@@ -57,7 +57,7 @@ header #brand:before {
   position: absolute;
   width: 110%;
   height: 60px;
-  background-image: url("https://raw.githack.com/avormud/milk/refs/heads/main/artistic-background-wallpaper-with-color-halftone-effect.jpg"); 
+  background-image: url("https://raw.githack.com/avormud/milk/refs/heads/main/Rectangle%2011.png"); 
   bottom: -10px;
   left: -5%;
   border-radius: 60px;
