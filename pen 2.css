@@ -100,6 +100,9 @@ header .info p {
 
 }
 
+header #place1 {
+  color: #799A60
+}
 
 header #headline {
   font-size: 30px;
